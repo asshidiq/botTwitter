@@ -1,0 +1,28 @@
+{
+  "name": "bottwitter",
+  "version": "1.0.0",
+  "description": "bot Twitter with npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asshidiq/botTwitter.git"
+  },
+  "keywords": [
+    "bot",
+    "twitter",
+    "twitterApp"
+  ],
+  "author": "Adam Asshidiq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asshidiq/botTwitter/issues"
+  },
+  "homepage": "https://github.com/asshidiq/botTwitter#readme",
+  "dependencies": {
+    "event": "^1.0.0",
+    "twitter": "^1.7.1"
+  }
+}
