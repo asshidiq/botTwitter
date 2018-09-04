@@ -1,6 +1,7 @@
 # botTwitter
 membuat applikasi Bot Twitter dengan fungsi twitter dari npm
-app ini melakukan "like" pada kata kunci tertentu
+
+aplikasi ini melakukan "like" secara otomatis pada kata kunci tertentu
 
 ## Informasi
 **Harus Ada!**
